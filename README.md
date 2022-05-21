@@ -1,6 +1,6 @@
 <h1 align="center">Gallery React App</h1>
 
-<p align="center">📺 This is a netflix clone, it is fully responsive and with a movies api to show</p>
+<p align="center">💻 This is a small one, but it brings amazing features like adding new images to the database</p>
 
 <p align="center">To start the project just run the commands below</p>
 
